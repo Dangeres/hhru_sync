@@ -18,7 +18,7 @@ setup(
     packages = ["hhru_sync"],
     version = version,
     license = "MIT",
-    description = "TYPE YOUR DESCRIPTION HERE",
+    description = "Элегантная библиотека для взаимодействия с сайтом hh.ru",
     author = "Dmitriy Yablokov",
     author_email = "dimon4ik_228@bk.ru",
     url = "https://github.com/Dangeres/hhru_sync",
