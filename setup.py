@@ -41,5 +41,4 @@ setup(
         "Programming Language :: Python :: 3.11",
     ],
     zip_safe = False,
-    install_requires = requires,
 )
